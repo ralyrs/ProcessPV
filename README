@@ -1,3 +1,4 @@
+Hello John!
 This is just a small utility (written in Ruby) and a few shell scripts to
 enable data from Fronius PV inverters to be logged and then sent to
 pvoutput.org for display.
